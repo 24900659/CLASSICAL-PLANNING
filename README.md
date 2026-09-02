@@ -23,7 +23,7 @@ print(plan)
 ```
 # Output:
 ```
-['move_A_to_B']
+['move_A_to_B'] 
 ```
 # Example - 2
 ```
